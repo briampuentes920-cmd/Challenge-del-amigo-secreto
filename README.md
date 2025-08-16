@@ -34,4 +34,4 @@ Aplicación sencilla en **HTML**, **CSS** y **JavaScript** para:
 - Si intentas repetir un nombre, se muestra un aviso.
 
 ## ✨ Autor
-Proyecto desarrollado por **Brian Puentes**.
+Proyecto desarrollado por **Briam Puentes**.
